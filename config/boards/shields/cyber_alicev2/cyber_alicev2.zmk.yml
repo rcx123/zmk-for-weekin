@@ -1,0 +1,8 @@
+file_format: "1"
+id: Cyber_Alice_v2
+name: Cyber_Alice_v2
+type: shield
+url: 
+requires: [nrfmicro_13_52840]
+features:
+  - keys
