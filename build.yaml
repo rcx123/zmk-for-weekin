@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nrfmicro
+  - board: weekin840_m2
     shield: cyber_alicev2
